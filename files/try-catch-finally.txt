@@ -1,0 +1,24 @@
+How to Use the try-catch Clause?
+
+1.
+try {
+    // block of code to monitor for errors
+    // the code you think can raise an exception
+} catch (ExceptionType1 exOb) {
+    // exception handler for ExceptionType1
+} catch (ExceptionType2 exOb) {
+    // exception handler for ExceptionType2
+}
+// optional
+finally {  // block of code to be executed after try block ends
+}
+
+
+2.
+The try-with-resources Statement
+        try(FileReader fr=new FileReader("deneme.txt")){
+
+        }
+        catch (Exception ex){
+
+        }

@@ -1,0 +1,8 @@
+throw and throws in Java
+1. throw:
+throw new Exception("Hata oluştu.");
+
+2. throws:
+type method_name(parameters) throws exception_list{
+
+}

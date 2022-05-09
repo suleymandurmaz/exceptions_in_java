@@ -1,0 +1,7 @@
+The advantages of Exception Handling in Java are as follows:
+
+    1. Provision to Complete Program Execution
+    2. Easy Identification of Program Code and Error-Handling Code
+    3. Propagation of Errors
+    4. Meaningful Error Reporting
+    5. Identifying Error Types
