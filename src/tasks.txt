@@ -1,0 +1,8 @@
+TASKS
+Task 1: Verilen bir karakter dizisini (char[]) metne çevirip döndüren metodu yazınız.
+Method: convertToString(char[] values)
+
+Task 2: Verilen bir tamsayı dizisini (int[]) metne çevirip döndüren metodu yazınız.
+Method: convertToString(int[] values)
+
+Task 3:
