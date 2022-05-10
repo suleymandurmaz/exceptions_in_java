@@ -1,8 +1,18 @@
 TASKS
+Aşağıdaki metotlar için Tools isimli bir class oluşturunuz. Metotların hepsi static ve
+public olarak tasarlanacaktır. Bütün metotları en az bir kez MainApp -> main metodu
+içerisinde kullanınız.
+
 Task 1: Verilen bir karakter dizisini (char[]) metne çevirip döndüren metodu yazınız.
-Method: convertToString(char[] values)
+Method: String convertToString(char[] values)
 
 Task 2: Verilen bir tamsayı dizisini (int[]) metne çevirip döndüren metodu yazınız.
-Method: convertToString(int[] values)
+Method: String convertToString(int[] values)
 
-Task 3:
+Task 3: Verilen bir String nesnesini tersine çeviren metodu yazınız.
+Metohd: String reverse(String value)
+-------------------------------------------------------------
+
+Task 4: Rectangle isimli sınıfı oluşturunuz. Sınıfın height ve width isimli alanları
+(field) olacaktır. Getter ve setter metotlarını korumak için LengthException oluşturulacaktır.
+Mesaj olarak "Length must be a positive number." verilmelidir.
