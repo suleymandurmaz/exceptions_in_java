@@ -16,3 +16,13 @@ Metohd: String reverse(String value)
 Task 4: Rectangle isimli sınıfı oluşturunuz. Sınıfın height ve width isimli alanları
 (field) olacaktır. Getter ve setter metotlarını korumak için LengthException oluşturulacaktır.
 Mesaj olarak "Length must be a positive number." verilmelidir.
+
+Task 5: Kayıtlı bir dosyanın var olup olmadığını kontrol edip silen Java programını yazınız.
+(java.io.File sınıfı kullanılacaktır.)
+Dosya'ya erişilip, ekranda gösterilecek. Silmek ister misiniz diye sorulacak.
+Cevap evet ise dosya silinecek. Başarılı şekilde silindi mesajı verilecektir.
+
+Task 6: Mevcut bir metin dosyasının içeriğini ekrana yazdıran Java programını yazınız.
+
+Task 7: Klavyeden girilen bir metnin disk üzerine (dosyaya) kaydedilmesini sağlayan
+Java programını yazınız.
