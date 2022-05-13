@@ -1,6 +1,7 @@
 package day049;
 
 public class Tools {
+
     public static String convertToString(char[] values){
         String str="";
         try {
@@ -36,4 +37,5 @@ public class Tools {
         }
         return str;
     }
-}
+
+    }
