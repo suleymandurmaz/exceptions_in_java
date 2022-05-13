@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         Scanner input=new Scanner(System.in);
         System.out.println("Kaydedilmesini isteğiniz metni girip [enter] tuşuna basınız..");
         String metin=input.nextLine();
